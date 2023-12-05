@@ -4,10 +4,11 @@
   margin-inline: auto;
   margin-block: 20px;
   background-color: var(--color-water);
+  font-weight: bold;
 }
 
-.card--green {
-  background-color: lightgreen;
+.card--blue {
+  background-color: lightblue;
 }
 
 .card--red {
@@ -16,4 +17,8 @@
 
 .card--yellow {
   background-color: lightyellow;
+}
+
+.card--orange {
+  background-color: lightsalmon;
 }
