@@ -10,8 +10,6 @@ export default function Card({ name, emoji, color }) {
       {name}
       {"  "}
       {emoji}
-      {"  "}
-      {color}
     </p>
   );
 }
